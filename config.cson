@@ -1,0 +1,34 @@
+"*":
+  "exception-reporting":
+    userId: "468ee9d1-77cb-58e5-60ba-bc0c596283a7"
+  "release-notes":
+    viewedVersion: "0.75.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "e1c9b0e5e0eb72571d07ab976c1208b927b59ff7"
+  editor:
+    invisibles: {}
+    fontSize: 13
+    showIndentGuide: true
+    showInvisibles: true
+    lineHeight: 1.4
+  core:
+    themes: [
+      "atom-light-ui"
+      "monokai"
+    ]
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+  "tree-view": {}
+  "autocomplete-plus": {}
+  preview:
+    _analyticsUserId: "b9e93344-9524-4b4f-b554-bd7420bd0fed"
+  "markdown-preview": {}
+  term2:
+    colors: {}
+  linter: {}
+  "linter-eslint": {}
